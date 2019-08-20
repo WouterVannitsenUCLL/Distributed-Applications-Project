@@ -14,8 +14,8 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'io.spring.dependency-management'
 
 bootJar {
-    baseName = 'DA-project'
-    version =  '1.0'
+    baseName = 'gs-rest-service'
+    version =  '0.1.0'
 }
 
 repositories {
